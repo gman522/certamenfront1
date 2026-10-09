@@ -1,0 +1,7 @@
+.MuiCard-root {
+  border-radius: 8px;
+}
+
+.MuiCardHeader-title {
+  font-weight: 600;
+}
