@@ -1,0 +1,12 @@
+.MuiTableCell-head {
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.MuiTableCell-root {
+  padding: 12px;
+}
+
+.MuiTableContainer-root {
+  overflow-x: auto;
+}
